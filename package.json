@@ -1,0 +1,11 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "## in this repo I will be uploading all the solution I will give to problems in leetcode platform, anyone is wellcome to open a PR and enhance the code.",
+  "main": "findMedianSortedArrays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
